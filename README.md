@@ -1,2 +1,2 @@
-# 02_01_Intro
-Agenda Introduktion til 2. semester
+# Introduktion til 2. semesters SWC
+## Agenda:
