@@ -9,6 +9,7 @@ Brush-up Project: Grocery List
 
 Forklar github repo koder
 
+Studieordning gennemgang
 
 ## Links
 * [jdk download](http://www.java.oracle.com)
