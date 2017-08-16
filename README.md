@@ -4,9 +4,6 @@
 * Semester intro + recap: 
 	* Classes, methods, attributes, return values, inheritance, polymorphism,…
 
-Tool: IntelliJ    
-Test assignment: file + char count
-
 Brush-up Project: Fitness Exercise
 
 Forklar github repo koder (2_01_xxx)
