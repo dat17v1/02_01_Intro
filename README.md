@@ -8,7 +8,13 @@ Brush-up Project: Fitness Exercise
 
 Forklar github repo koder (2_01_xxx)
 
-Studieordning gennemgang
+Studieordning gennemgang    
+
+Eksamen
+
+Mandatory
+
+
 
 ## Links
 ###Opdater JDK    
