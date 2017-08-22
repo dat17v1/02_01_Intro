@@ -24,7 +24,7 @@ Mandatory
 * [IntelliJ](https://www.jetbrains.com/estore/students/)
 	1. Opret bruger (med kea email)
 	2. Download og installér IntelliJ 
-	3. Når programmet startes første gang, vælg da mulighed “3” som er at logge på serveren. Dvs. du behøver ingen licens her.
+	3. Når programmet startes første gang, vælg da mulighed “1” som er at logge på serveren. Dvs. du behøver ingen licens her.
 
 
 * [IntelliJ IDEA Community Edition Essential Training](https://www.lynda.com/Java-tutorials/Welcome/486759/606148-4.html)
